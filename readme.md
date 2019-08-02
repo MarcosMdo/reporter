@@ -5,7 +5,7 @@ A simple http service that generates \*.PDF reports from [Grafana](http://grafan
 ![demo](demo/report_v5.gif)
 
 ## Requirements
-
+!!!
 Runtime requirements
 
 - `pdflatex` installed and available in PATH.
